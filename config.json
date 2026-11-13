@@ -1,0 +1,17 @@
+{
+  "country": "BR",
+  "requireCountry": true,
+  "forwardedForIp": "",
+  "includeSeries": false,
+  "excludeCategories": [],
+  "categoryPageSize": 100,
+  "concurrency": 6,
+  "graceRuns": 2,
+  "minKeepRatio": 0.5,
+  "playlistPath": "playlist/pluto-br-filmes.m3u",
+  "statePath": "data/state.json",
+  "reportPath": "playlist/report.json",
+  "playlistTitle": "Pluto TV Brasil - Filmes",
+  "ssiptv": { "contentType": "video", "extSize": "medium" },
+  "verify": { "sample": 30, "minSuccess": 0.8 }
+}

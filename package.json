@@ -1,0 +1,14 @@
+{
+  "name": "pluto-br-ssiptv",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Gera lista M3U (filmes sob demanda do Pluto TV Brasil) otimizada para SS IPTV",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node src/build.js",
+    "verify": "node src/verify.js",
+    "probe": "node src/probe.js",
+    "test": "node --test test/*.test.js"
+  }
+}
