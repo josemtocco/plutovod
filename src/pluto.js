@@ -8,6 +8,7 @@ export class PlutoClient {
   constructor(cfg, env = process.env, log = console) {
     this.cfg = cfg;
     this.log = log;
+    this.env = env;
     this.bootUrl = env.PLUTO_BOOT_URL || 'https://boot.pluto.tv/v4/start';
     this.vodUrl = (env.PLUTO_VOD_URL || 'https://service-vod.clusters.pluto.tv/v4/vod').replace(/\/+$/, '');
     this.session = null;
@@ -21,7 +22,8 @@ export class PlutoClient {
       referer: 'https://pluto.tv/',
       ...extra,
     };
-    if (this.cfg.forwardedForIp) h['x-forwarded-for'] = this.cfg.forwardedForIp;
+    const ip = this.env.FORWARDED_FOR_IP || this.cfg.forwardedForIp;
+    if (ip) h['x-forwarded-for'] = ip;
     return h;
   }
 
