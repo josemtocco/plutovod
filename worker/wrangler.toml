@@ -1,1 +1,9 @@
+name = "pluto-br-ssiptv"
+main = "worker.js"
+compatibility_date = "2025-06-01"
 
+[vars]
+# IP brasileiro opcional (cabeçalho X-Forwarded-For), caso a Pluto devolva outro país
+FORWARDED_FOR_IP = ""
+# "proxy" (padrão: devolve o manifesto) ou "redirect" (302 para o link longo)
+MODE = "proxy"
