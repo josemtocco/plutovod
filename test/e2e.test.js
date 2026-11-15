@@ -28,7 +28,7 @@ test('fluxo completo: coleta paginada -> M3U -> Worker -> reprodução', async (
   const root = await mkdtemp(join(tmpdir(), 'pluto-'));
   const cfg = JSON.parse(await readFile(new URL('../config.json', import.meta.url), 'utf8'));
   cfg.includeSeries = true;
-  const worker = await startWorker({ PLUTO_BOOT_URL: `${mock.url}/boot`, PLUTO_VOD_URL: `${mock.url}/vod` });
+  const worker = await startWorker({ PLUTO_BOOT_URL: `${mock.url}/boot`, PLUTO_VOD_URL: `${mock.url}/vod`, ALLOWED_HOSTS: '127.0.0.1' });
   const env = { PLUTO_BOOT_URL: `${mock.url}/boot`, PLUTO_VOD_URL: `${mock.url}/vod`, RESOLVER_BASE_URL: worker.url };
   try {
     mock.st.categories = [
@@ -83,7 +83,7 @@ test('fluxo completo: coleta paginada -> M3U -> Worker -> reprodução', async (
 
 test('Worker: ID inválido, modo redirect e manifesto absoluto', async () => {
   const mock = await startMock();
-  const env = { PLUTO_BOOT_URL: `${mock.url}/boot`, PLUTO_VOD_URL: `${mock.url}/vod` };
+  const env = { PLUTO_BOOT_URL: `${mock.url}/boot`, PLUTO_VOD_URL: `${mock.url}/vod`, ALLOWED_HOSTS: '127.0.0.1' };
   try {
     assert.equal((await handleRequest(new Request('http://w/play/../../etc'), env)).status, 404);
     assert.equal((await handleRequest(new Request('http://w/play/a.m3u8'), env)).status, 404);
@@ -91,7 +91,24 @@ test('Worker: ID inválido, modo redirect e manifesto absoluto', async () => {
     assert.equal(red.status, 302);
     assert.match(red.headers.get('location'), /\/v2\/stitch\/hls\/episode\/abc1234\/master\.m3u8\?.*jwt=tok123/);
     const ok = await handleRequest(new Request('http://w/play/abc1234.m3u8'), env);
-    assert.match(await ok.text(), /^#EXTM3U[\s\S]*http:\/\/127\.0\.0\.1:\d+\/v2\/stitch\/hls\/episode\/abc1234\/720\/playlist\.m3u8/);
+    const master = await ok.text();
+    assert.match(master, /^#EXTM3U[\s\S]*http:\/\/w\/hls\?u=/);
+    // a variante passa pelo Worker e o JWT é anexado
+    const u = master.match(/hls\?u=(\S+)/)[1];
+    const dec = Buffer.from(u.replace(/-/g, '+').replace(/_/g, '/'), 'base64').toString();
+    assert.match(dec, /\/720\/playlist\.m3u8\?.*jwt=tok123/);
+    // sem o Worker (link direto sem token) a Pluto simulada responde 401, como no erro real
+    assert.equal((await fetch(`${mock.url}/v2/stitch/hls/episode/abc1234/720/playlist.m3u8`)).status, 401);
+    const variant = await handleRequest(new Request(`http://w/hls?u=${u}`), env);
+    assert.equal(variant.status, 200);
+    assert.match(await variant.text(), /seg\/1\.ts\?.*jwt=tok123/);
+    // SSRF: host fora da lista é bloqueado
+    const evil = Buffer.from('https://evil.example/x.m3u8').toString('base64url');
+    assert.equal((await handleRequest(new Request(`http://w/hls?u=${evil}`), env)).status, 403);
+    // debug mostra o manifesto sem expor o JWT
+    const dbg = await (await handleRequest(new Request('http://w/debug/abc1234'), env)).text();
+    assert.match(dbg, /status: 200/);
+    assert.ok(!dbg.includes('tok123'));
     assert.equal(absolutize('#EXT-X-MEDIA:URI="a.m3u8"\nb.m3u8', 'https://h/x/m.m3u8'), '#EXT-X-MEDIA:URI="https://h/x/a.m3u8"\nhttps://h/x/b.m3u8');
   } finally {
     await mock.close();

@@ -39,10 +39,12 @@ export function startMock() {
       if (u.searchParams.get('jwt') !== st.token) { res.writeHead(401); return res.end('no jwt'); }
       if (m[1].startsWith('dead')) { res.writeHead(404); return res.end('gone'); }
       res.writeHead(200, { 'content-type': 'application/vnd.apple.mpegurl' });
-      if (m[2] === 'master.m3u8') return res.end('#EXTM3U\n#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=1280x720\n720/playlist.m3u8?jwt=' + st.token + '\n');
-      return res.end('#EXTM3U\n#EXT-X-TARGETDURATION:6\n#EXTINF:6.0,\n/seg/1.ts?jwt=' + st.token + '\n#EXT-X-ENDLIST\n');
+      // Como a Pluto real: o master lista variantes SEM token; a variante exige jwt.
+      if (m[2] === 'master.m3u8') return res.end('#EXTM3U\n#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=1280x720\n720/playlist.m3u8\n');
+      return res.end('#EXTM3U\n#EXT-X-TARGETDURATION:6\n#EXTINF:6.0,\n/seg/1.ts\n#EXT-X-ENDLIST\n');
     }
     if (p === '/seg/1.ts') {
+      if (u.searchParams.get('jwt') !== st.token) { res.writeHead(401); return res.end('no jwt'); }
       const b = Buffer.alloc(2048, 0x47);
       res.writeHead(req.headers.range ? 206 : 200, { 'content-type': 'video/mp2t' });
       return res.end(b);
