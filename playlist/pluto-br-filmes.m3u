@@ -982,7 +982,7 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/68c829f59889a990ed865e00.m3u
 #EXTINF:-1 tvg-id="68824d4c6cc84ff3ed6fdc29" tvg-logo="https://images.pluto.tv/episodes/68824d4c6cc84ff3ed6fdc29/screenshot16_9_1778873051902.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",A Tentação
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/68824d4c6cc84ff3ed6fdc29.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="66a954512fca0600132f256b" tvg-logo="https://images.pluto.tv/episodes/66a954512fca0600132f256b/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",The Gift
+#EXTINF:-1 tvg-id="66a954512fca0600132f256b" tvg-logo="https://images.pluto.tv/episodes/66a954512fca0600132f256b/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",O Dom da Premonição
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/66a954512fca0600132f256b.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="673f35e5a7fde5001378547f" tvg-logo="https://images.pluto.tv/episodes/673f35e5a7fde5001378547f/screenshot16_9_1784147761515.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",Instinto Predador
@@ -1207,7 +1207,7 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5f85f586377682001a588738.m3u
 #EXTINF:-1 tvg-id="5f8706d407ce430013083f67" tvg-logo="https://images.pluto.tv/episodes/5f8706d407ce430013083f67/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",Sacrifício
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5f8706d407ce430013083f67.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="6310dcae8762280014a48b1e" tvg-logo="https://images.pluto.tv/episodes/6310dcae8762280014a48b1e/screenshot16_9_1769731561736.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",O Dom Da Premonição
+#EXTINF:-1 tvg-id="6310dcae8762280014a48b1e" tvg-logo="https://images.pluto.tv/episodes/6310dcae8762280014a48b1e/screenshot16_9_1769731561736.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",O Dom da Premonição
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6310dcae8762280014a48b1e.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="640a3ad8803fcf0013fbf98d" tvg-logo="https://images.pluto.tv/episodes/640a3ad8803fcf0013fbf98d/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",A Empregada
@@ -2440,9 +2440,6 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5fa15abf88d408001aa8f7b9.m3u
 #EXTINF:-1 tvg-id="63bf1812d576210013055dc6" tvg-logo="https://images.pluto.tv/episodes/63bf1812d576210013055dc6/screenshot16_9_1770060603112.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Gritos de Horror: O Renascimento
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/63bf1812d576210013055dc6.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="6399d2af8ba71d0013e46116" tvg-logo="https://images.pluto.tv/episodes/6399d2af8ba71d0013e46116/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Cabana da Possessão
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6399d2af8ba71d0013e46116.m3u8
-#EXTSIZE:medium
 #EXTINF:-1 tvg-id="6310f32f37c5800013b6a070" tvg-logo="https://images.pluto.tv/episodes/6310f32f37c5800013b6a070/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Pânico Virtual
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6310f32f37c5800013b6a070.m3u8
 #EXTSIZE:medium
@@ -2670,6 +2667,9 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/639c9e791f9a4e001389ddda.m3u
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="5fa15a9588d408001aa8f368" tvg-logo="https://images.pluto.tv/episodes/5fa15a9588d408001aa8f368/screenshot16_9_1769805365156.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",A Segunda Visão
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5fa15a9588d408001aa8f368.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="6399d2af8ba71d0013e46116" tvg-logo="https://images.pluto.tv/episodes/6399d2af8ba71d0013e46116/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Cabana da Possessão
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6399d2af8ba71d0013e46116.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="62cc32964f12bb0013663e81" tvg-logo="https://images.pluto.tv/episodes/62cc32964f12bb0013663e81/screenshot16_9_1769800499760.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Reality da Morte
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/62cc32964f12bb0013663e81.m3u8
@@ -10828,23 +10828,23 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6a0b6051fcc735ec753c04a2.m3u
 #EXTINF:-1 tvg-id="6a0b61b103fc89878f378fdf" tvg-logo="https://images.pluto.tv/episodes/6a0b61b103fc89878f378fdf/screenshot16_9_1779130802285.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Franquia REC" content-type="video",[REC] 4 - Apocalipse
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6a0b61b103fc89878f378fdf.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="6aee2c2873415cc4aeb97dc2" tvg-logo="https://images.pluto.tv/episodes/6aee2c2873415cc4aeb97dc2/screenshot16_9_1793993771974.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Esquenta UFC 334 - Dia 14  no Paramount+" content-type="video",Josh Hokit vs. Denzel Freeman (UFC 324: Gaethje vs. Pimblett - Prelims 1)
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6aee2c2873415cc4aeb97dc2.m3u8
+#EXTINF:-1 tvg-id="6a2080cc114ca7fcbecdf6de" tvg-logo="https://images.pluto.tv/episodes/6a2080cc114ca7fcbecdf6de/screenshot16_9_1780515021330.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Esquenta UFC Doha - Dia 21  no Paramount+" content-type="video",Jiri Prochazka vs. Alex Pereira (UFC 295: Prochazka vs. Pereira - Main Card)
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6a2080cc114ca7fcbecdf6de.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="6aee3761bb38bb9fe9b46692" tvg-logo="https://images.pluto.tv/episodes/6aee3761bb38bb9fe9b46692/screenshot16_9_1793996691267.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Esquenta UFC 334 - Dia 14  no Paramount+" content-type="video",Amanda Nunes vs. Irene Aldana (UFC 289: Nunes vs. Aldana - Main Card) (Português)
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6aee3761bb38bb9fe9b46692.m3u8
+#EXTINF:-1 tvg-id="6af70e186418ae181313e60e" tvg-logo="https://images.pluto.tv/episodes/6af70e186418ae181313e60e/screenshot16_9_1794576106208.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Esquenta UFC Doha - Dia 21  no Paramount+" content-type="video",315: Navajo Stirling vs. Ivan Erslan Prelims (Português)
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6af70e186418ae181313e60e.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="6aee349ef579448234648d22" tvg-logo="https://images.pluto.tv/episodes/6aee349ef579448234648d22/screenshot16_9_1793996480785.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Esquenta UFC 334 - Dia 14  no Paramount+" content-type="video",301: Paul Craig vs. Caio Borralho Main Card
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6aee349ef579448234648d22.m3u8
+#EXTINF:-1 tvg-id="6af70e0d6418ae181311eab8" tvg-logo="https://images.pluto.tv/episodes/6af70e0d6418ae181311eab8/screenshot16_9_1794575892227.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Esquenta UFC Doha - Dia 21  no Paramount+" content-type="video",312: Justin Tafa vs. Tallison Teixeira Main Card (Português)
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6af70e0d6418ae181311eab8.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="6aee65ce78e140e3e45fca6e" tvg-logo="https://images.pluto.tv/episodes/6aee65ce78e140e3e45fca6e/screenshot16_9_1794008527056.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Esquenta UFC 334 - Dia 14  no Paramount+" content-type="video",277: Julianna Pena vs. Amanda Nunes Main Card
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6aee65ce78e140e3e45fca6e.m3u8
+#EXTINF:-1 tvg-id="6af70f7740a5216f1308a03f" tvg-logo="https://images.pluto.tv/episodes/6af70f7740a5216f1308a03f/screenshot16_9_1794576263810.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Esquenta UFC Doha - Dia 21  no Paramount+" content-type="video",Steve Erceg vs. Alessandro Costa (UFC 295: Prochazka vs. Pereira - Prelims) (Português)
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6af70f7740a5216f1308a03f.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="6aee305b78e140e3e45869c6" tvg-logo="https://images.pluto.tv/episodes/6aee305b78e140e3e45869c6/screenshot16_9_1793994847850.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Esquenta UFC 334 - Dia 14  no Paramount+" content-type="video",316: Julianna Peña vs. Kayla Harrison Main Card (Português)
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6aee305b78e140e3e45869c6.m3u8
+#EXTINF:-1 tvg-id="69e8e5432c3507bb0a62a527" tvg-logo="https://images.pluto.tv/episodes/69e8e5432c3507bb0a62a527/screenshot16_9_1776870724944.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Esquenta UFC Doha - Dia 21  no Paramount+" content-type="video",Aljamain Sterling vs. Henry Cejudo (UFC 288: Sterling vs. Cejudo - Main Card)
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/69e8e5432c3507bb0a62a527.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="6aee305978e140e3e457f6c1" tvg-logo="https://images.pluto.tv/episodes/6aee305978e140e3e457f6c1/screenshot16_9_1793994843900.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Esquenta UFC 334 - Dia 14  no Paramount+" content-type="video",321: Tom Aspinall vs. Ciryl Gane Main Card (Português)
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6aee305978e140e3e457f6c1.m3u8
+#EXTINF:-1 tvg-id="6a95d640763ed26aa4425157" tvg-logo="https://images.pluto.tv/episodes/6a95d640763ed26aa4425157/screenshot16_9_1788204655389.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Esquenta UFC Doha - Dia 21  no Paramount+" content-type="video",319: Jared Cannonier vs. Michael Page Main Card (Português)
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6a95d640763ed26aa4425157.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="6a8899297a5624e68d9e4916" tvg-logo="https://images.pluto.tv/episodes/6a8899297a5624e68d9e4916/screenshot16_9_1790356106386.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Jornada nas Estrelas" content-type="video",Star Trek
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6a8899297a5624e68d9e4916.m3u8
@@ -11043,3 +11043,21 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/60589eb38fe583001a4d0edb.m3u
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="60589eb98fe583001a4d0f11" tvg-logo="https://images.pluto.tv/episodes/60589eb98fe583001a4d0f11/screenshot16_9_1769719322289.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Franquia Sexta-Feira 13" content-type="video",Sexta-Feira 13 - Parte 8: Jason Ataca Nova York
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/60589eb98fe583001a4d0f11.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="6aee2c2873415cc4aeb97dc2" tvg-logo="https://images.pluto.tv/episodes/6aee2c2873415cc4aeb97dc2/screenshot16_9_1793993771974.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Esquenta UFC 334 - Dia 14  no Paramount+" content-type="video",Josh Hokit vs. Denzel Freeman (UFC 324: Gaethje vs. Pimblett - Prelims 1)
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6aee2c2873415cc4aeb97dc2.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="6aee3761bb38bb9fe9b46692" tvg-logo="https://images.pluto.tv/episodes/6aee3761bb38bb9fe9b46692/screenshot16_9_1793996691267.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Esquenta UFC 334 - Dia 14  no Paramount+" content-type="video",Amanda Nunes vs. Irene Aldana (UFC 289: Nunes vs. Aldana - Main Card) (Português)
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6aee3761bb38bb9fe9b46692.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="6aee349ef579448234648d22" tvg-logo="https://images.pluto.tv/episodes/6aee349ef579448234648d22/screenshot16_9_1793996480785.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Esquenta UFC 334 - Dia 14  no Paramount+" content-type="video",301: Paul Craig vs. Caio Borralho Main Card
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6aee349ef579448234648d22.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="6aee65ce78e140e3e45fca6e" tvg-logo="https://images.pluto.tv/episodes/6aee65ce78e140e3e45fca6e/screenshot16_9_1794008527056.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Esquenta UFC 334 - Dia 14  no Paramount+" content-type="video",277: Julianna Pena vs. Amanda Nunes Main Card
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6aee65ce78e140e3e45fca6e.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="6aee305b78e140e3e45869c6" tvg-logo="https://images.pluto.tv/episodes/6aee305b78e140e3e45869c6/screenshot16_9_1793994847850.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Esquenta UFC 334 - Dia 14  no Paramount+" content-type="video",316: Julianna Peña vs. Kayla Harrison Main Card (Português)
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6aee305b78e140e3e45869c6.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="6aee305978e140e3e457f6c1" tvg-logo="https://images.pluto.tv/episodes/6aee305978e140e3e457f6c1/screenshot16_9_1793994843900.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Esquenta UFC 334 - Dia 14  no Paramount+" content-type="video",321: Tom Aspinall vs. Ciryl Gane Main Card (Português)
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6aee305978e140e3e457f6c1.m3u8
