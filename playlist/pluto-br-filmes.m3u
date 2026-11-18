@@ -7735,11 +7735,11 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/62f3d1e19bd9c6001b6263ae.m3u
 #EXTINF:-1 tvg-id="6075c282a224c9001bb9ffb0" tvg-logo="https://images.pluto.tv/episodes/6075c282a224c9001bb9ffb0/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="No clima natalino" content-type="video",As Aventuras de Bailey: A Noite na Cidade
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6075c282a224c9001bb9ffb0.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="69df90093312e3048e370074" tvg-logo="https://images.pluto.tv/episodes/69df90093312e3048e370074/screenshot16_9_1776259082526.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="No clima natalino" content-type="video",Adivinhe Quem Vem para o Natal
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/69df90093312e3048e370074.m3u8
-#EXTSIZE:medium
 #EXTINF:-1 tvg-id="670557117dcabd001313aa28" tvg-logo="https://images.pluto.tv/episodes/670557117dcabd001313aa28/screenshot16_9_1770828483489.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="No clima natalino" content-type="video",O Natal Prometido
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/670557117dcabd001313aa28.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="69df90093312e3048e370074" tvg-logo="https://images.pluto.tv/episodes/69df90093312e3048e370074/screenshot16_9_1776259082526.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="No clima natalino" content-type="video",Adivinhe Quem Vem para o Natal
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/69df90093312e3048e370074.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="5faef12b3650d7001b402980" tvg-logo="https://images.pluto.tv/episodes/5faef12b3650d7001b402980/screenshot16_9_1778102282173.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="No clima natalino" content-type="video",Noite Feliz
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5faef12b3650d7001b402980.m3u8
@@ -10069,11 +10069,11 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6124e921e347810013280575.m3u
 #EXTINF:-1 tvg-id="5ff35879042d2a001a20ae95" tvg-logo="https://images.pluto.tv/episodes/5ff35879042d2a001a20ae95/screenshot16_9_1769798528829.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Era de Ouro do Cinema" content-type="video",O Demônio da Algéria
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5ff35879042d2a001a20ae95.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="602e9561558c290014f902e9" tvg-logo="https://images.pluto.tv/episodes/602e9561558c290014f902e9/screenshot16_9_1769822642063.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Era de Ouro do Cinema" content-type="video",O Diabo Branco
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/602e9561558c290014f902e9.m3u8
-#EXTSIZE:medium
 #EXTINF:-1 tvg-id="602e955f558c290014f902bb" tvg-logo="https://images.pluto.tv/episodes/602e955f558c290014f902bb/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Era de Ouro do Cinema" content-type="video",O Lobisomem
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/602e955f558c290014f902bb.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="602e9561558c290014f902e9" tvg-logo="https://images.pluto.tv/episodes/602e9561558c290014f902e9/screenshot16_9_1769822642063.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Era de Ouro do Cinema" content-type="video",O Diabo Branco
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/602e9561558c290014f902e9.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="602e9579558c290014f9051f" tvg-logo="https://images.pluto.tv/episodes/602e9579558c290014f9051f/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Era de Ouro do Cinema" content-type="video",O Mundo Odeia-me
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/602e9579558c290014f9051f.m3u8
