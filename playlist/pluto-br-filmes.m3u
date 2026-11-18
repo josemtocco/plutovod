@@ -1051,7 +1051,7 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/68386172afe56ba72e4fe3c1.m3u
 #EXTINF:-1 tvg-id="68405e09782266d45357e867" tvg-logo="https://images.pluto.tv/episodes/68405e09782266d45357e867/screenshot16_9_1769715002444.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",Cidade do Silêncio
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/68405e09782266d45357e867.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="66c37a12dc6f2f001375cc91" tvg-logo="https://images.pluto.tv/episodes/66c37a12dc6f2f001375cc91/screenshot16_9_1769815803005.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",Standoff at Sparrow Creek
+#EXTINF:-1 tvg-id="66c37a12dc6f2f001375cc91" tvg-logo="https://images.pluto.tv/episodes/66c37a12dc6f2f001375cc91/screenshot16_9_1769815803005.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",Assassinato em Sparrow Creek
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/66c37a12dc6f2f001375cc91.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="66f5757ce87eac0013f7b88a" tvg-logo="https://images.pluto.tv/episodes/66f5757ce87eac0013f7b88a/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",Acima Da Lei
@@ -1897,11 +1897,11 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/627d296cb55dbf0013578888.m3u
 #EXTINF:-1 tvg-id="66f5d52ca4b22d00141397ab" tvg-logo="https://images.pluto.tv/episodes/66f5d52ca4b22d00141397ab/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Crime" content-type="video",Assassino Americano
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/66f5d52ca4b22d00141397ab.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="66b506535b669a00131900d9" tvg-logo="https://images.pluto.tv/episodes/66b506535b669a00131900d9/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Crime" content-type="video",Only for One Night
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/66b506535b669a00131900d9.m3u8
-#EXTSIZE:medium
 #EXTINF:-1 tvg-id="640235b1f9b2f60014230f2f" tvg-logo="https://images.pluto.tv/episodes/640235b1f9b2f60014230f2f/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Crime" content-type="video",Acima da Lei
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/640235b1f9b2f60014230f2f.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="66b506535b669a00131900d9" tvg-logo="https://images.pluto.tv/episodes/66b506535b669a00131900d9/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Crime" content-type="video",Only for One Night
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/66b506535b669a00131900d9.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="66b66731b20e790013d0837f" tvg-logo="https://images.pluto.tv/episodes/66b66731b20e790013d0837f/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Crime" content-type="video",Paixão Fatal
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/66b66731b20e790013d0837f.m3u8
@@ -2440,6 +2440,9 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5fa15abf88d408001aa8f7b9.m3u
 #EXTINF:-1 tvg-id="63bf1812d576210013055dc6" tvg-logo="https://images.pluto.tv/episodes/63bf1812d576210013055dc6/screenshot16_9_1770060603112.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Gritos de Horror: O Renascimento
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/63bf1812d576210013055dc6.m3u8
 #EXTSIZE:medium
+#EXTINF:-1 tvg-id="6399d2af8ba71d0013e46116" tvg-logo="https://images.pluto.tv/episodes/6399d2af8ba71d0013e46116/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Cabana da Possessão
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6399d2af8ba71d0013e46116.m3u8
+#EXTSIZE:medium
 #EXTINF:-1 tvg-id="6310f32f37c5800013b6a070" tvg-logo="https://images.pluto.tv/episodes/6310f32f37c5800013b6a070/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Pânico Virtual
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6310f32f37c5800013b6a070.m3u8
 #EXTSIZE:medium
@@ -2673,9 +2676,6 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/62cc32964f12bb0013663e81.m3u
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="62bee8d0c7b29600144d2dae" tvg-logo="https://images.pluto.tv/episodes/62bee8d0c7b29600144d2dae/screenshot16_9_1769797443737.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Olhos de Criança
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/62bee8d0c7b29600144d2dae.m3u8
-#EXTSIZE:medium
-#EXTINF:-1 tvg-id="6399d2af8ba71d0013e46116" tvg-logo="https://images.pluto.tv/episodes/6399d2af8ba71d0013e46116/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Cabana da Possessão
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6399d2af8ba71d0013e46116.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="62be07d68672a30013bc5cdc" tvg-logo="https://images.pluto.tv/episodes/62be07d68672a30013bc5cdc/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",A Tribo
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/62be07d68672a30013bc5cdc.m3u8
@@ -9304,11 +9304,11 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5fbe77050dddaf0013b5c4f1.m3u
 #EXTINF:-1 tvg-id="63654c89bc198f001335e6df" tvg-logo="https://images.pluto.tv/episodes/63654c89bc198f001335e6df/screenshot16_9_1769724362468.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Documentários" content-type="video",Um Novo Capitalismo
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/63654c89bc198f001335e6df.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="5fad3b0d9d991c001a9d94dc" tvg-logo="https://images.pluto.tv/episodes/5fad3b0d9d991c001a9d94dc/screenshot16_9_1769804643712.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Documentários" content-type="video",Junho - O mês que abalou Brasil
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5fad3b0d9d991c001a9d94dc.m3u8
-#EXTSIZE:medium
 #EXTINF:-1 tvg-id="636410d436d64a001454b884" tvg-logo="https://images.pluto.tv/episodes/636410d436d64a001454b884/screenshot16_9_1769707441971.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Documentários" content-type="video",Mesa para Todos
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/636410d436d64a001454b884.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="5fad3b0d9d991c001a9d94dc" tvg-logo="https://images.pluto.tv/episodes/5fad3b0d9d991c001a9d94dc/screenshot16_9_1769804643712.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Documentários" content-type="video",Junho - O mês que abalou Brasil
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5fad3b0d9d991c001a9d94dc.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="606dcdf0f96a44001a1c958d" tvg-logo="https://images.pluto.tv/episodes/606dcdf0f96a44001a1c958d/screenshot16_9_1770063122113.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Documentários" content-type="video",O Coração do Homem
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/606dcdf0f96a44001a1c958d.m3u8
@@ -10066,11 +10066,11 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6124e921e347810013280575.m3u
 #EXTINF:-1 tvg-id="5ff35879042d2a001a20ae95" tvg-logo="https://images.pluto.tv/episodes/5ff35879042d2a001a20ae95/screenshot16_9_1769798528829.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Era de Ouro do Cinema" content-type="video",O Demônio da Algéria
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5ff35879042d2a001a20ae95.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="602e955f558c290014f902bb" tvg-logo="https://images.pluto.tv/episodes/602e955f558c290014f902bb/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Era de Ouro do Cinema" content-type="video",O Lobisomem
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/602e955f558c290014f902bb.m3u8
-#EXTSIZE:medium
 #EXTINF:-1 tvg-id="602e9561558c290014f902e9" tvg-logo="https://images.pluto.tv/episodes/602e9561558c290014f902e9/screenshot16_9_1769822642063.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Era de Ouro do Cinema" content-type="video",O Diabo Branco
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/602e9561558c290014f902e9.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="602e955f558c290014f902bb" tvg-logo="https://images.pluto.tv/episodes/602e955f558c290014f902bb/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Era de Ouro do Cinema" content-type="video",O Lobisomem
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/602e955f558c290014f902bb.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="602e9579558c290014f9051f" tvg-logo="https://images.pluto.tv/episodes/602e9579558c290014f9051f/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Era de Ouro do Cinema" content-type="video",O Mundo Odeia-me
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/602e9579558c290014f9051f.m3u8
