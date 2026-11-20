@@ -1174,20 +1174,20 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/65ea00b9794da50014ce7e5d.m3u
 #EXTINF:-1 tvg-id="65721a7a2085480014832caf" tvg-logo="https://images.pluto.tv/episodes/65721a7a2085480014832caf/screenshot16_9_1769718603920.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",Obsessão Perigosa
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/65721a7a2085480014832caf.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="65e9e0535c25f6001377c1e5" tvg-logo="https://images.pluto.tv/episodes/65e9e0535c25f6001377c1e5/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",Um Crime passional
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/65e9e0535c25f6001377c1e5.m3u8
-#EXTSIZE:medium
 #EXTINF:-1 tvg-id="666c56c21e15340013301093" tvg-logo="https://images.pluto.tv/episodes/666c56c21e15340013301093/screenshot16_9_1769805362123.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",O Segredo da Borboleta
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/666c56c21e15340013301093.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="65e9e0535c25f6001377c1e5" tvg-logo="https://images.pluto.tv/episodes/65e9e0535c25f6001377c1e5/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",Um Crime passional
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/65e9e0535c25f6001377c1e5.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="607eccfd5426cf001a3bfedc" tvg-logo="https://images.pluto.tv/episodes/607eccfd5426cf001a3bfedc/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",Premonições
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/607eccfd5426cf001a3bfedc.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="5f5be477638b1800139e8a03" tvg-logo="https://images.pluto.tv/episodes/5f5be477638b1800139e8a03/screenshot16_9_1769795643223.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",Donnie Darko
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5f5be477638b1800139e8a03.m3u8
-#EXTSIZE:medium
 #EXTINF:-1 tvg-id="627e7813c51411001347a8a7" tvg-logo="https://images.pluto.tv/episodes/627e7813c51411001347a8a7/screenshot16_9_1769821927988.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",Horas do Medo
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/627e7813c51411001347a8a7.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="5f5be477638b1800139e8a03" tvg-logo="https://images.pluto.tv/episodes/5f5be477638b1800139e8a03/screenshot16_9_1769795643223.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",Donnie Darko
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5f5be477638b1800139e8a03.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="5f871d0472d139001a19c6c8" tvg-logo="https://images.pluto.tv/episodes/5f871d0472d139001a19c6c8/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",Um Passado Sombrio
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5f871d0472d139001a19c6c8.m3u8
@@ -1213,7 +1213,7 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5f85f586377682001a588738.m3u
 #EXTINF:-1 tvg-id="5f8706d407ce430013083f67" tvg-logo="https://images.pluto.tv/episodes/5f8706d407ce430013083f67/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",Sacrifício
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5f8706d407ce430013083f67.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="6310dcae8762280014a48b1e" tvg-logo="https://images.pluto.tv/episodes/6310dcae8762280014a48b1e/screenshot16_9_1769731561736.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",O Dom Da Premonição
+#EXTINF:-1 tvg-id="6310dcae8762280014a48b1e" tvg-logo="https://images.pluto.tv/episodes/6310dcae8762280014a48b1e/screenshot16_9_1769731561736.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",O Dom da Premonição
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6310dcae8762280014a48b1e.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="640a3ad8803fcf0013fbf98d" tvg-logo="https://images.pluto.tv/episodes/640a3ad8803fcf0013fbf98d/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Suspense" content-type="video",A Empregada
@@ -2419,9 +2419,6 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/639c895a4da5ab0013036ee2.m3u
 #EXTINF:-1 tvg-id="5fa15a9988d408001aa8f3d8" tvg-logo="https://images.pluto.tv/episodes/5fa15a9988d408001aa8f3d8/screenshot16_9_1769806442342.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Demência
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5fa15a9988d408001aa8f3d8.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="6310f32f37c5800013b6a070" tvg-logo="https://images.pluto.tv/episodes/6310f32f37c5800013b6a070/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Pânico Virtual
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6310f32f37c5800013b6a070.m3u8
-#EXTSIZE:medium
 #EXTINF:-1 tvg-id="61dee5a804ff25001a4b49a4" tvg-logo="https://images.pluto.tv/episodes/61dee5a804ff25001a4b49a4/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",O Dia Da Múmia
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/61dee5a804ff25001a4b49a4.m3u8
 #EXTSIZE:medium
@@ -2454,6 +2451,9 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/63bf1812d576210013055dc6.m3u
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="6399d2af8ba71d0013e46116" tvg-logo="https://images.pluto.tv/episodes/6399d2af8ba71d0013e46116/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Cabana da Possessão
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6399d2af8ba71d0013e46116.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="6310f32f37c5800013b6a070" tvg-logo="https://images.pluto.tv/episodes/6310f32f37c5800013b6a070/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Pânico Virtual
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6310f32f37c5800013b6a070.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="603fb51e05d744001a21f9db" tvg-logo="https://images.pluto.tv/episodes/603fb51e05d744001a21f9db/screenshot16_9_1770061322167.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Megalodon
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/603fb51e05d744001a21f9db.m3u8
