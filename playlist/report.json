@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T23:33:42.689Z",
+  "generatedAt": "2026-11-21T05:06:13.453Z",
   "country": "BR",
-  "total": 3685,
+  "total": 3686,
   "categories": 69,
-  "added": 0,
-  "kept": 3685,
-  "pending": 0,
+  "added": 1,
+  "kept": 3683,
+  "pending": 2,
   "removed": 0
 }
