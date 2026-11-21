@@ -1903,17 +1903,17 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/65ea00bc794da50014ce7ff6.m3u
 #EXTINF:-1 tvg-id="627d296cb55dbf0013578888" tvg-logo="https://images.pluto.tv/episodes/627d296cb55dbf0013578888/screenshot16_9_1769822643178.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Crime" content-type="video",Força Para Lutar
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/627d296cb55dbf0013578888.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="66b506535b669a00131900d9" tvg-logo="https://images.pluto.tv/episodes/66b506535b669a00131900d9/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Crime" content-type="video",Only for One Night
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/66b506535b669a00131900d9.m3u8
-#EXTSIZE:medium
 #EXTINF:-1 tvg-id="66f5d52ca4b22d00141397ab" tvg-logo="https://images.pluto.tv/episodes/66f5d52ca4b22d00141397ab/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Crime" content-type="video",Assassino Americano
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/66f5d52ca4b22d00141397ab.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="66b66731b20e790013d0837f" tvg-logo="https://images.pluto.tv/episodes/66b66731b20e790013d0837f/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Crime" content-type="video",Paixão Fatal
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/66b66731b20e790013d0837f.m3u8
-#EXTSIZE:medium
 #EXTINF:-1 tvg-id="640235b1f9b2f60014230f2f" tvg-logo="https://images.pluto.tv/episodes/640235b1f9b2f60014230f2f/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Crime" content-type="video",Acima da Lei
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/640235b1f9b2f60014230f2f.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="66b506535b669a00131900d9" tvg-logo="https://images.pluto.tv/episodes/66b506535b669a00131900d9/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Crime" content-type="video",Only for One Night
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/66b506535b669a00131900d9.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="66b66731b20e790013d0837f" tvg-logo="https://images.pluto.tv/episodes/66b66731b20e790013d0837f/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Crime" content-type="video",Paixão Fatal
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/66b66731b20e790013d0837f.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="66b4e8c27e51670013ebeec7" tvg-logo="https://images.pluto.tv/episodes/66b4e8c27e51670013ebeec7/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Crime" content-type="video",Até Que a Morte nos Separe
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/66b4e8c27e51670013ebeec7.m3u8
@@ -2449,6 +2449,9 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5fa15abf88d408001aa8f7b9.m3u
 #EXTINF:-1 tvg-id="63bf1812d576210013055dc6" tvg-logo="https://images.pluto.tv/episodes/63bf1812d576210013055dc6/screenshot16_9_1770060603112.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Gritos de Horror: O Renascimento
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/63bf1812d576210013055dc6.m3u8
 #EXTSIZE:medium
+#EXTINF:-1 tvg-id="6399d2af8ba71d0013e46116" tvg-logo="https://images.pluto.tv/episodes/6399d2af8ba71d0013e46116/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Cabana da Possessão
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6399d2af8ba71d0013e46116.m3u8
+#EXTSIZE:medium
 #EXTINF:-1 tvg-id="6310f32f37c5800013b6a070" tvg-logo="https://images.pluto.tv/episodes/6310f32f37c5800013b6a070/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Pânico Virtual
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6310f32f37c5800013b6a070.m3u8
 #EXTSIZE:medium
@@ -2676,9 +2679,6 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/639c9e791f9a4e001389ddda.m3u
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="5fa15a9588d408001aa8f368" tvg-logo="https://images.pluto.tv/episodes/5fa15a9588d408001aa8f368/screenshot16_9_1769805365156.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",A Segunda Visão
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5fa15a9588d408001aa8f368.m3u8
-#EXTSIZE:medium
-#EXTINF:-1 tvg-id="6399d2af8ba71d0013e46116" tvg-logo="https://images.pluto.tv/episodes/6399d2af8ba71d0013e46116/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Cabana da Possessão
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6399d2af8ba71d0013e46116.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="62cc32964f12bb0013663e81" tvg-logo="https://images.pluto.tv/episodes/62cc32964f12bb0013663e81/screenshot16_9_1769800499760.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Reality da Morte
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/62cc32964f12bb0013663e81.m3u8
