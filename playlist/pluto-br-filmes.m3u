@@ -2452,11 +2452,11 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5fa15abf88d408001aa8f7b9.m3u
 #EXTINF:-1 tvg-id="63bf1812d576210013055dc6" tvg-logo="https://images.pluto.tv/episodes/63bf1812d576210013055dc6/screenshot16_9_1770060603112.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Gritos de Horror: O Renascimento
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/63bf1812d576210013055dc6.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="6399d2af8ba71d0013e46116" tvg-logo="https://images.pluto.tv/episodes/6399d2af8ba71d0013e46116/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Cabana da Possessão
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6399d2af8ba71d0013e46116.m3u8
-#EXTSIZE:medium
 #EXTINF:-1 tvg-id="603fb51e05d744001a21f9db" tvg-logo="https://images.pluto.tv/episodes/603fb51e05d744001a21f9db/screenshot16_9_1770061322167.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Megalodon
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/603fb51e05d744001a21f9db.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="6399d2af8ba71d0013e46116" tvg-logo="https://images.pluto.tv/episodes/6399d2af8ba71d0013e46116/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Cabana da Possessão
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6399d2af8ba71d0013e46116.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="62b9eab2c4eb8f00140cb723" tvg-logo="https://images.pluto.tv/episodes/62b9eab2c4eb8f00140cb723/screenshot16_9_1769819405222.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Terror Profundo
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/62b9eab2c4eb8f00140cb723.m3u8
@@ -10084,11 +10084,11 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6124e921e347810013280575.m3u
 #EXTINF:-1 tvg-id="5ff35879042d2a001a20ae95" tvg-logo="https://images.pluto.tv/episodes/5ff35879042d2a001a20ae95/screenshot16_9_1769798528829.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Era de Ouro do Cinema" content-type="video",O Demônio da Algéria
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5ff35879042d2a001a20ae95.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="602e955f558c290014f902bb" tvg-logo="https://images.pluto.tv/episodes/602e955f558c290014f902bb/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Era de Ouro do Cinema" content-type="video",O Lobisomem
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/602e955f558c290014f902bb.m3u8
-#EXTSIZE:medium
 #EXTINF:-1 tvg-id="602e9561558c290014f902e9" tvg-logo="https://images.pluto.tv/episodes/602e9561558c290014f902e9/screenshot16_9_1769822642063.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Era de Ouro do Cinema" content-type="video",O Diabo Branco
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/602e9561558c290014f902e9.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="602e955f558c290014f902bb" tvg-logo="https://images.pluto.tv/episodes/602e955f558c290014f902bb/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Era de Ouro do Cinema" content-type="video",O Lobisomem
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/602e955f558c290014f902bb.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="602e9579558c290014f9051f" tvg-logo="https://images.pluto.tv/episodes/602e9579558c290014f9051f/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Era de Ouro do Cinema" content-type="video",O Mundo Odeia-me
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/602e9579558c290014f9051f.m3u8
