@@ -2677,11 +2677,11 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/639c9e791f9a4e001389ddda.m3u
 #EXTINF:-1 tvg-id="5fa15a9588d408001aa8f368" tvg-logo="https://images.pluto.tv/episodes/5fa15a9588d408001aa8f368/screenshot16_9_1769805365156.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",A Segunda Visão
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5fa15a9588d408001aa8f368.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="6399d2af8ba71d0013e46116" tvg-logo="https://images.pluto.tv/episodes/6399d2af8ba71d0013e46116/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Cabana da Possessão
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6399d2af8ba71d0013e46116.m3u8
-#EXTSIZE:medium
 #EXTINF:-1 tvg-id="62cc32964f12bb0013663e81" tvg-logo="https://images.pluto.tv/episodes/62cc32964f12bb0013663e81/screenshot16_9_1769800499760.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Reality da Morte
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/62cc32964f12bb0013663e81.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="6399d2af8ba71d0013e46116" tvg-logo="https://images.pluto.tv/episodes/6399d2af8ba71d0013e46116/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Cabana da Possessão
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6399d2af8ba71d0013e46116.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="62bee8d0c7b29600144d2dae" tvg-logo="https://images.pluto.tv/episodes/62bee8d0c7b29600144d2dae/screenshot16_9_1769797443737.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Olhos de Criança
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/62bee8d0c7b29600144d2dae.m3u8
@@ -3262,17 +3262,17 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6627cb9ad90eb100130baaac.m3u
 #EXTINF:-1 tvg-id="64da37af334a8a0013c5c27e" tvg-logo="https://images.pluto.tv/episodes/64da37af334a8a0013c5c27e/screenshot16_9_1793914922701.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Ficção Científica" content-type="video",Moontrap: Alvo Terra
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/64da37af334a8a0013c5c27e.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="64131e253603f9001a15a28e" tvg-logo="https://images.pluto.tv/episodes/64131e253603f9001a15a28e/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Ficção Científica" content-type="video",Cypher
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/64131e253603f9001a15a28e.m3u8
-#EXTSIZE:medium
 #EXTINF:-1 tvg-id="64da4f878a0f710013a2611b" tvg-logo="https://images.pluto.tv/episodes/64da4f878a0f710013a2611b/screenshot16_9_1770061684038.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Ficção Científica" content-type="video",H.P. Lovecraft: A Oferta
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/64da4f878a0f710013a2611b.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="640a06bd803fcf0013fab495" tvg-logo="https://images.pluto.tv/episodes/640a06bd803fcf0013fab495/screenshot16_9_1769816163463.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Ficção Científica" content-type="video",The Monster project
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/640a06bd803fcf0013fab495.m3u8
-#EXTSIZE:medium
 #EXTINF:-1 tvg-id="6474b14e274ca8001a43e8d4" tvg-logo="https://images.pluto.tv/episodes/6474b14e274ca8001a43e8d4/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Ficção Científica" content-type="video",Outra Vida
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6474b14e274ca8001a43e8d4.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="64131e253603f9001a15a28e" tvg-logo="https://images.pluto.tv/episodes/64131e253603f9001a15a28e/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Ficção Científica" content-type="video",Cypher
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/64131e253603f9001a15a28e.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="640a06bd803fcf0013fab495" tvg-logo="https://images.pluto.tv/episodes/640a06bd803fcf0013fab495/screenshot16_9_1769816163463.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Ficção Científica" content-type="video",The Monster project
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/640a06bd803fcf0013fab495.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="62bf5243daab810013cd4797" tvg-logo="https://images.pluto.tv/episodes/62bf5243daab810013cd4797/screenshot16_9_1769798340144.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Ficção Científica" content-type="video",Dead Trigger: Tiroteio Zumbi
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/62bf5243daab810013cd4797.m3u8
