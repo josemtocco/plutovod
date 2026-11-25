@@ -133,7 +133,10 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6a271b090aef1275c6230383.m3u
 #EXTINF:-1 tvg-id="6aac04ac291eac08d1836bda" tvg-logo="https://images.pluto.tv/episodes/6aac04ac291eac08d1836bda/screenshot16_9_1789658284965.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Novidades Na Pluto" content-type="video",Kung Fu Yoga
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6aac04ac291eac08d1836bda.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="6aac20c9da71d9a75f27a908" tvg-logo="https://images.pluto.tv/episodes/6aac20c9da71d9a75f27a908/screenshot16_9_1789665481921.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Novidades Na Pluto" content-type="video",Um Limite Entre Nós
+#EXTINF:-1 tvg-id="6aac20deda71d9a75f2978c7" tvg-logo="https://images.pluto.tv/episodes/6aac20deda71d9a75f2978c7/screenshot16_9_1795615965792.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Novidades Na Pluto" content-type="video",Dúvida
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6aac20deda71d9a75f2978c7.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="6aac20c9da71d9a75f27a908" tvg-logo="https://images.pluto.tv/episodes/6aac20c9da71d9a75f27a908/screenshot16_9_1795615928397.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Novidades Na Pluto" content-type="video",Um Limite Entre Nós
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6aac20c9da71d9a75f27a908.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="6aac185b7102b85b82ba3cde" tvg-logo="https://images.pluto.tv/episodes/6aac185b7102b85b82ba3cde/screenshot16_9_1789663325107.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Novidades Na Pluto" content-type="video",Na Natureza Selvagem
@@ -2419,6 +2422,9 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/639c895a4da5ab0013036ee2.m3u
 #EXTINF:-1 tvg-id="5fa15a9988d408001aa8f3d8" tvg-logo="https://images.pluto.tv/episodes/5fa15a9988d408001aa8f3d8/screenshot16_9_1769806442342.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Demência
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5fa15a9988d408001aa8f3d8.m3u8
 #EXTSIZE:medium
+#EXTINF:-1 tvg-id="6310f32f37c5800013b6a070" tvg-logo="https://images.pluto.tv/episodes/6310f32f37c5800013b6a070/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Pânico Virtual
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6310f32f37c5800013b6a070.m3u8
+#EXTSIZE:medium
 #EXTINF:-1 tvg-id="61dee5a804ff25001a4b49a4" tvg-logo="https://images.pluto.tv/episodes/61dee5a804ff25001a4b49a4/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",O Dia Da Múmia
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/61dee5a804ff25001a4b49a4.m3u8
 #EXTSIZE:medium
@@ -2448,9 +2454,6 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/5fa15abf88d408001aa8f7b9.m3u
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="63bf1812d576210013055dc6" tvg-logo="https://images.pluto.tv/episodes/63bf1812d576210013055dc6/screenshot16_9_1770060603112.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Gritos de Horror: O Renascimento
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/63bf1812d576210013055dc6.m3u8
-#EXTSIZE:medium
-#EXTINF:-1 tvg-id="6310f32f37c5800013b6a070" tvg-logo="https://images.pluto.tv/episodes/6310f32f37c5800013b6a070/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Pânico Virtual
-https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6310f32f37c5800013b6a070.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="603fb51e05d744001a21f9db" tvg-logo="https://images.pluto.tv/episodes/603fb51e05d744001a21f9db/screenshot16_9_1770061322167.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Terror" content-type="video",Megalodon
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/603fb51e05d744001a21f9db.m3u8
@@ -4828,7 +4831,10 @@ https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6aac1c91a586c4b3c9838fcb.m3u
 #EXTINF:-1 tvg-id="600ae8002816a5001aa1464a" tvg-logo="https://images.pluto.tv/episodes/600ae8002816a5001aa1464a/screenshot16_9_1778103836016.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Drama" content-type="video",O Homem que Fazia Chover
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/600ae8002816a5001aa1464a.m3u8
 #EXTSIZE:medium
-#EXTINF:-1 tvg-id="6aac20c9da71d9a75f27a908" tvg-logo="https://images.pluto.tv/episodes/6aac20c9da71d9a75f27a908/screenshot16_9_1789665481921.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Drama" content-type="video",Um Limite Entre Nós
+#EXTINF:-1 tvg-id="6aac20deda71d9a75f2978c7" tvg-logo="https://images.pluto.tv/episodes/6aac20deda71d9a75f2978c7/screenshot16_9_1795615965792.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Drama" content-type="video",Dúvida
+https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6aac20deda71d9a75f2978c7.m3u8
+#EXTSIZE:medium
+#EXTINF:-1 tvg-id="6aac20c9da71d9a75f27a908" tvg-logo="https://images.pluto.tv/episodes/6aac20c9da71d9a75f27a908/screenshot16_9_1795615928397.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Drama" content-type="video",Um Limite Entre Nós
 https://pluto-br-ssiptv.bepigaucho.workers.dev/play/6aac20c9da71d9a75f27a908.m3u8
 #EXTSIZE:medium
 #EXTINF:-1 tvg-id="6aac185b7102b85b82ba3cde" tvg-logo="https://images.pluto.tv/episodes/6aac185b7102b85b82ba3cde/screenshot16_9_1789663325107.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=75&w=960" group-title="Cine Drama" content-type="video",Na Natureza Selvagem
